@@ -21,7 +21,7 @@
 
 ## 安装
 
-1. 将本仓库目录**重命名为 `blackhole`**
+1. 将本仓库zjmf_plugin_blackhole**重命名为 `blackhole`**
 2. 放到 `public/plugins/addons/` 下，最终路径为：
 
    ```
