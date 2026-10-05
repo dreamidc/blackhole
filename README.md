@@ -21,8 +21,8 @@
 
 ## 安装
 
-1. 将本仓库目录**重命名为 `blackhole`**
-2. 放到 `public/plugins/addons/` 下，最终路径为：
+1. 在您的魔方财务站点public/plugins/addons目录**新建文件夹名为 `blackhole`**
+2. 将此仓库下载为压缩包放到 `public/plugins/addons/blackhole` 下并解压，最终路径为：
 
    ```
    public/plugins/addons/blackhole/
